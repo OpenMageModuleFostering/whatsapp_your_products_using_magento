@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/WhatsApp_Your_Products_using_Magento",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "",
+    "description": "Share Product link to WhatsApp contacts",
+    "authors": [
+    {
+        "name": "ZealousWeb Technologies Pvt Ltd.",
+        "email": "magento@zealousweb.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
